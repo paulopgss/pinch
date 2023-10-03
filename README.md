@@ -37,7 +37,7 @@ A ideia do aplicativo Pinch é estudar algumas ferramentas presentes no SwiftUI.
 ```shell
 git clone https://github.com/paulopgss/pinch
 ```
-2. Abra o projeto HikeApp no Xcode.
+2. Abra o projeto Pinch no Xcode.
 3. Execute o aplicativo em um simulador iOS ou dispositivo físico.
 
 ## Licença ##
